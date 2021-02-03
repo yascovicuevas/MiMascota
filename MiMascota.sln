@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiMascota.Common", "MiMascota.Common\MiMascota.Common.csproj", "{FC3A4584-ED85-4FC5-AC91-8B793CD056B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiMascota.web", "MiMascota.web\MiMascota.web.csproj", "{92015FC8-84CE-4E90-97B4-C1C1D2BA6A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC3A4584-ED85-4FC5-AC91-8B793CD056B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3A4584-ED85-4FC5-AC91-8B793CD056B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3A4584-ED85-4FC5-AC91-8B793CD056B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3A4584-ED85-4FC5-AC91-8B793CD056B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92015FC8-84CE-4E90-97B4-C1C1D2BA6A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92015FC8-84CE-4E90-97B4-C1C1D2BA6A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92015FC8-84CE-4E90-97B4-C1C1D2BA6A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92015FC8-84CE-4E90-97B4-C1C1D2BA6A19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DCE4935-E161-4249-B678-162EC019839C}
+	EndGlobalSection
+EndGlobal
